@@ -1,0 +1,10 @@
+/.DS_Store
+/App.razor
+/BlazorPwa.csproj
+/Layout
+/Pages
+/Program.cs
+/Properties
+/_Imports.razor
+/obj
+/wwwroot
